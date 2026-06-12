@@ -1,0 +1,1644 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hermes Agent//FIFA World Cup 2026 MT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 (Mountain Time)
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:400021443@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:World Cup 2026: Mexico v South Africa
+LOCATION:Mexico City Stadium\, Mexico City
+DESCRIPTION:FIFA World Cup 2026 Match 1 - First Stage / Group A. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Mexico%20v%20South%20Africa&dates=20260611T19
+ 0000Z%2F20260611T210000Z&details=FIFA%20World%20Cup%202026%20Match%201.%
+ 20First%20Stage%20-%20Group%20A.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021443&location=Mexico%20City%20Stadium%2C%20Me
+ xico%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021441@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:World Cup 2026: Korea Republic v Czechia
+LOCATION:Guadalajara Stadium\, Guadalajara
+DESCRIPTION:FIFA World Cup 2026 Match 2 - First Stage / Group A. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Korea%20Republic%20v%20Czechia&dates=20260612
+ T020000Z%2F20260612T040000Z&details=FIFA%20World%20Cup%202026%20Match%20
+ 2.%20First%20Stage%20-%20Group%20A.%20Source%3A%20FIFA%20schedule.%20Mat
+ ch%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%
+ 2F17%2F285023%2F289273%2F400021441&location=Guadalajara%20Stadium%2C%20G
+ uadalajara&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021449@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:World Cup 2026: Canada v Bosnia and Herzegovina
+LOCATION:Toronto Stadium\, Toronto
+DESCRIPTION:FIFA World Cup 2026 Match 3 - First Stage / Group B. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Canada%20v%20Bosnia%20and%20Herzegovina&dates
+ =20260612T190000Z%2F20260612T210000Z&details=FIFA%20World%20Cup%202026%2
+ 0Match%203.%20First%20Stage%20-%20Group%20B.%20Source%3A%20FIFA%20schedu
+ le.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre
+ %2Fmatch%2F17%2F285023%2F289273%2F400021449&location=Toronto%20Stadium%2
+ C%20Toronto&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021458@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:World Cup 2026: USA v Paraguay
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 4 - First Stage / Group D. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20USA%20v%20Paraguay&dates=20260613T010000Z%2F2
+ 0260613T030000Z&details=FIFA%20World%20Cup%202026%20Match%204.%20First%2
+ 0Stage%20-%20Group%20D.%20Source%3A%20FIFA%20schedule.%20Match%20centre%
+ 3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28502
+ 3%2F289273%2F400021458&location=Los%20Angeles%20Stadium%2C%20Los%20Angel
+ es&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021447@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:World Cup 2026: Qatar v Switzerland
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area
+DESCRIPTION:FIFA World Cup 2026 Match 8 - First Stage / Group B. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Qatar%20v%20Switzerland&dates=20260613T190000
+ Z%2F20260613T210000Z&details=FIFA%20World%20Cup%202026%20Match%208.%20Fi
+ rst%20Stage%20-%20Group%20B.%20Source%3A%20FIFA%20schedule.%20Match%20ce
+ ntre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F
+ 285023%2F289273%2F400021447&location=San%20Francisco%20Bay%20Area%20Stad
+ ium%2C%20San%20Francisco%20Bay%20Area&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021456@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:World Cup 2026: Brazil v Morocco
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 7 - First Stage / Group C. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Brazil%20v%20Morocco&dates=20260613T220000Z%2
+ F20260614T000000Z&details=FIFA%20World%20Cup%202026%20Match%207.%20First
+ %20Stage%20-%20Group%20C.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021456&location=New%20York%2FNew%20Jersey%20Stadium%2C
+ %20New%20Jersey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021453@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:World Cup 2026: Haiti v Scotland
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 5 - First Stage / Group C. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Haiti%20v%20Scotland&dates=20260614T010000Z%2
+ F20260614T030000Z&details=FIFA%20World%20Cup%202026%20Match%205.%20First
+ %20Stage%20-%20Group%20C.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021453&location=Boston%20Stadium%2C%20Boston&ctz=Ameri
+ ca%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021463@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:World Cup 2026: Australia v Türkiye
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 6 - First Stage / Group D. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20Australia%20v%20T%C3%BCrkiye&dates=20260614T0
+ 40000Z%2F20260614T060000Z&details=FIFA%20World%20Cup%202026%20Match%206.
+ %20First%20Stage%20-%20Group%20D.%20Source%3A%20FIFA%20schedule.%20Match
+ %20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F
+ 17%2F285023%2F289273%2F400021463&location=BC%20Place%20Vancouver%2C%20Va
+ ncouver&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021464@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:World Cup 2026: Germany v Curaçao
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 10 - First Stage / Group E. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Germany%20v%20Cura%C3%A7ao&dates=20260614T17
+ 0000Z%2F20260614T190000Z&details=FIFA%20World%20Cup%202026%20Match%2010.
+ %20First%20Stage%20-%20Group%20E.%20Source%3A%20FIFA%20schedule.%20Match
+ %20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F
+ 17%2F285023%2F289273%2F400021464&location=Houston%20Stadium%2C%20Houston
+ &ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021470@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:World Cup 2026: Netherlands v Japan
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 11 - First Stage / Group F. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Netherlands%20v%20Japan&dates=20260614T20000
+ 0Z%2F20260614T220000Z&details=FIFA%20World%20Cup%202026%20Match%2011.%20
+ First%20Stage%20-%20Group%20F.%20Source%3A%20FIFA%20schedule.%20Match%20
+ centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%
+ 2F285023%2F289273%2F400021470&location=Dallas%20Stadium%2C%20Dallas&ctz=
+ America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021467@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:World Cup 2026: Côte d'Ivoire v Ecuador
+LOCATION:Philadelphia Stadium\, Philadelphia
+DESCRIPTION:FIFA World Cup 2026 Match 9 - First Stage / Group E. Add indi
+ vidually: https://calendar.google.com/calendar/render?action=TEMPLATE&te
+ xt=World%20Cup%202026%3A%20C%C3%B4te%20d%27Ivoire%20v%20Ecuador&dates=20
+ 260614T230000Z%2F20260615T010000Z&details=FIFA%20World%20Cup%202026%20Ma
+ tch%209.%20First%20Stage%20-%20Group%20E.%20Source%3A%20FIFA%20schedule.
+ %20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2F
+ match%2F17%2F285023%2F289273%2F400021467&location=Philadelphia%20Stadium
+ %2C%20Philadelphia&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021474@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:World Cup 2026: Sweden v Tunisia
+LOCATION:Monterrey Stadium\, Monterrey
+DESCRIPTION:FIFA World Cup 2026 Match 12 - First Stage / Group F. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Sweden%20v%20Tunisia&dates=20260615T020000Z%
+ 2F20260615T040000Z&details=FIFA%20World%20Cup%202026%20Match%2012.%20Fir
+ st%20Stage%20-%20Group%20F.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021474&location=Monterrey%20Stadium%2C%20Monterrey&c
+ tz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021482@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:World Cup 2026: Spain v Cabo Verde
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 14 - First Stage / Group H. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Spain%20v%20Cabo%20Verde&dates=20260615T1600
+ 00Z%2F20260615T180000Z&details=FIFA%20World%20Cup%202026%20Match%2014.%2
+ 0First%20Stage%20-%20Group%20H.%20Source%3A%20FIFA%20schedule.%20Match%2
+ 0centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17
+ %2F285023%2F289273%2F400021482&location=Atlanta%20Stadium%2C%20Atlanta&c
+ tz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021478@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:World Cup 2026: Belgium v Egypt
+LOCATION:Seattle Stadium\, Seattle
+DESCRIPTION:FIFA World Cup 2026 Match 16 - First Stage / Group G. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Belgium%20v%20Egypt&dates=20260615T190000Z%2
+ F20260615T210000Z&details=FIFA%20World%20Cup%202026%20Match%2016.%20Firs
+ t%20Stage%20-%20Group%20G.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021478&location=Seattle%20Stadium%2C%20Seattle&ctz=Am
+ erica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021486@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:World Cup 2026: Saudi Arabia v Uruguay
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 13 - First Stage / Group H. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Saudi%20Arabia%20v%20Uruguay&dates=20260615T
+ 220000Z%2F20260616T000000Z&details=FIFA%20World%20Cup%202026%20Match%201
+ 3.%20First%20Stage%20-%20Group%20H.%20Source%3A%20FIFA%20schedule.%20Mat
+ ch%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%
+ 2F17%2F285023%2F289273%2F400021486&location=Miami%20Stadium%2C%20Miami&c
+ tz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021476@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:World Cup 2026: IR Iran v New Zealand
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 15 - First Stage / Group G. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20IR%20Iran%20v%20New%20Zealand&dates=20260616
+ T010000Z%2F20260616T030000Z&details=FIFA%20World%20Cup%202026%20Match%20
+ 15.%20First%20Stage%20-%20Group%20G.%20Source%3A%20FIFA%20schedule.%20Ma
+ tch%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch
+ %2F17%2F285023%2F289273%2F400021476&location=Los%20Angeles%20Stadium%2C%
+ 20Los%20Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021490@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:World Cup 2026: France v Senegal
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 17 - First Stage / Group I. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20France%20v%20Senegal&dates=20260616T190000Z%
+ 2F20260616T210000Z&details=FIFA%20World%20Cup%202026%20Match%2017.%20Fir
+ st%20Stage%20-%20Group%20I.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021490&location=New%20York%2FNew%20Jersey%20Stadium%
+ 2C%20New%20Jersey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021488@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:World Cup 2026: Iraq v Norway
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 18 - First Stage / Group I. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Iraq%20v%20Norway&dates=20260616T220000Z%2F2
+ 0260617T000000Z&details=FIFA%20World%20Cup%202026%20Match%2018.%20First%
+ 20Stage%20-%20Group%20I.%20Source%3A%20FIFA%20schedule.%20Match%20centre
+ %3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2850
+ 23%2F289273%2F400021488&location=Boston%20Stadium%2C%20Boston&ctz=Americ
+ a%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021496@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:World Cup 2026: Argentina v Algeria
+LOCATION:Kansas City Stadium\, Kansas City
+DESCRIPTION:FIFA World Cup 2026 Match 19 - First Stage / Group J. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Argentina%20v%20Algeria&dates=20260617T01000
+ 0Z%2F20260617T030000Z&details=FIFA%20World%20Cup%202026%20Match%2019.%20
+ First%20Stage%20-%20Group%20J.%20Source%3A%20FIFA%20schedule.%20Match%20
+ centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%
+ 2F285023%2F289273%2F400021496&location=Kansas%20City%20Stadium%2C%20Kans
+ as%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021498@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:World Cup 2026: Austria v Jordan
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area
+DESCRIPTION:FIFA World Cup 2026 Match 20 - First Stage / Group J. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Austria%20v%20Jordan&dates=20260617T040000Z%
+ 2F20260617T060000Z&details=FIFA%20World%20Cup%202026%20Match%2020.%20Fir
+ st%20Stage%20-%20Group%20J.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021498&location=San%20Francisco%20Bay%20Area%20Stadi
+ um%2C%20San%20Francisco%20Bay%20Area&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021502@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:World Cup 2026: Portugal v Congo DR
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 23 - First Stage / Group K. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Portugal%20v%20Congo%20DR&dates=20260617T170
+ 000Z%2F20260617T190000Z&details=FIFA%20World%20Cup%202026%20Match%2023.%
+ 20First%20Stage%20-%20Group%20K.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021502&location=Houston%20Stadium%2C%20Houston&
+ ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021507@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:World Cup 2026: England v Croatia
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 22 - First Stage / Group L. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20England%20v%20Croatia&dates=20260617T200000Z
+ %2F20260617T220000Z&details=FIFA%20World%20Cup%202026%20Match%2022.%20Fi
+ rst%20Stage%20-%20Group%20L.%20Source%3A%20FIFA%20schedule.%20Match%20ce
+ ntre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F
+ 285023%2F289273%2F400021507&location=Dallas%20Stadium%2C%20Dallas&ctz=Am
+ erica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021510@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:World Cup 2026: Ghana v Panama
+LOCATION:Toronto Stadium\, Toronto
+DESCRIPTION:FIFA World Cup 2026 Match 21 - First Stage / Group L. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Ghana%20v%20Panama&dates=20260617T230000Z%2F
+ 20260618T010000Z&details=FIFA%20World%20Cup%202026%20Match%2021.%20First
+ %20Stage%20-%20Group%20L.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021510&location=Toronto%20Stadium%2C%20Toronto&ctz=Ame
+ rica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021504@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:World Cup 2026: Uzbekistan v Colombia
+LOCATION:Mexico City Stadium\, Mexico City
+DESCRIPTION:FIFA World Cup 2026 Match 24 - First Stage / Group K. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Uzbekistan%20v%20Colombia&dates=20260618T020
+ 000Z%2F20260618T040000Z&details=FIFA%20World%20Cup%202026%20Match%2024.%
+ 20First%20Stage%20-%20Group%20K.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021504&location=Mexico%20City%20Stadium%2C%20Me
+ xico%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021440@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:World Cup 2026: Czechia v South Africa
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 25 - First Stage / Group A. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Czechia%20v%20South%20Africa&dates=20260618T
+ 160000Z%2F20260618T180000Z&details=FIFA%20World%20Cup%202026%20Match%202
+ 5.%20First%20Stage%20-%20Group%20A.%20Source%3A%20FIFA%20schedule.%20Mat
+ ch%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%
+ 2F17%2F285023%2F289273%2F400021440&location=Atlanta%20Stadium%2C%20Atlan
+ ta&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021446@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:World Cup 2026: Switzerland v Bosnia and Herzegovina
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 26 - First Stage / Group B. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Switzerland%20v%20Bosnia%20and%20Herzegovina
+ &dates=20260618T190000Z%2F20260618T210000Z&details=FIFA%20World%20Cup%20
+ 2026%20Match%2026.%20First%20Stage%20-%20Group%20B.%20Source%3A%20FIFA%2
+ 0schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch
+ -centre%2Fmatch%2F17%2F285023%2F289273%2F400021446&location=Los%20Angele
+ s%20Stadium%2C%20Los%20Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021450@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:World Cup 2026: Canada v Qatar
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 27 - First Stage / Group B. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Canada%20v%20Qatar&dates=20260618T220000Z%2F
+ 20260619T000000Z&details=FIFA%20World%20Cup%202026%20Match%2027.%20First
+ %20Stage%20-%20Group%20B.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021450&location=BC%20Place%20Vancouver%2C%20Vancouver&
+ ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021442@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:World Cup 2026: Mexico v Korea Republic
+LOCATION:Guadalajara Stadium\, Guadalajara
+DESCRIPTION:FIFA World Cup 2026 Match 28 - First Stage / Group A. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Mexico%20v%20Korea%20Republic&dates=20260619
+ T010000Z%2F20260619T030000Z&details=FIFA%20World%20Cup%202026%20Match%20
+ 28.%20First%20Stage%20-%20Group%20A.%20Source%3A%20FIFA%20schedule.%20Ma
+ tch%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch
+ %2F17%2F285023%2F289273%2F400021442&location=Guadalajara%20Stadium%2C%20
+ Guadalajara&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021462@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:World Cup 2026: USA v Australia
+LOCATION:Seattle Stadium\, Seattle
+DESCRIPTION:FIFA World Cup 2026 Match 32 - First Stage / Group D. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20USA%20v%20Australia&dates=20260619T190000Z%2
+ F20260619T210000Z&details=FIFA%20World%20Cup%202026%20Match%2032.%20Firs
+ t%20Stage%20-%20Group%20D.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021462&location=Seattle%20Stadium%2C%20Seattle&ctz=Am
+ erica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021454@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:World Cup 2026: Scotland v Morocco
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 30 - First Stage / Group C. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Scotland%20v%20Morocco&dates=20260619T220000
+ Z%2F20260620T000000Z&details=FIFA%20World%20Cup%202026%20Match%2030.%20F
+ irst%20Stage%20-%20Group%20C.%20Source%3A%20FIFA%20schedule.%20Match%20c
+ entre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2
+ F285023%2F289273%2F400021454&location=Boston%20Stadium%2C%20Boston&ctz=A
+ merica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021457@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:World Cup 2026: Brazil v Haiti
+LOCATION:Philadelphia Stadium\, Philadelphia
+DESCRIPTION:FIFA World Cup 2026 Match 29 - First Stage / Group C. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Brazil%20v%20Haiti&dates=20260620T003000Z%2F
+ 20260620T023000Z&details=FIFA%20World%20Cup%202026%20Match%2029.%20First
+ %20Stage%20-%20Group%20C.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021457&location=Philadelphia%20Stadium%2C%20Philadelph
+ ia&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021460@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:World Cup 2026: Türkiye v Paraguay
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area
+DESCRIPTION:FIFA World Cup 2026 Match 31 - First Stage / Group D. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20T%C3%BCrkiye%20v%20Paraguay&dates=20260620T0
+ 30000Z%2F20260620T050000Z&details=FIFA%20World%20Cup%202026%20Match%2031
+ .%20First%20Stage%20-%20Group%20D.%20Source%3A%20FIFA%20schedule.%20Matc
+ h%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2
+ F17%2F285023%2F289273%2F400021460&location=San%20Francisco%20Bay%20Area%
+ 20Stadium%2C%20San%20Francisco%20Bay%20Area&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021472@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:World Cup 2026: Netherlands v Sweden
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 35 - First Stage / Group F. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Netherlands%20v%20Sweden&dates=20260620T1700
+ 00Z%2F20260620T190000Z&details=FIFA%20World%20Cup%202026%20Match%2035.%2
+ 0First%20Stage%20-%20Group%20F.%20Source%3A%20FIFA%20schedule.%20Match%2
+ 0centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17
+ %2F285023%2F289273%2F400021472&location=Houston%20Stadium%2C%20Houston&c
+ tz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021469@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:World Cup 2026: Germany v Côte d'Ivoire
+LOCATION:Toronto Stadium\, Toronto
+DESCRIPTION:FIFA World Cup 2026 Match 33 - First Stage / Group E. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Germany%20v%20C%C3%B4te%20d%27Ivoire&dates=2
+ 0260620T200000Z%2F20260620T220000Z&details=FIFA%20World%20Cup%202026%20M
+ atch%2033.%20First%20Stage%20-%20Group%20E.%20Source%3A%20FIFA%20schedul
+ e.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%
+ 2Fmatch%2F17%2F285023%2F289273%2F400021469&location=Toronto%20Stadium%2C
+ %20Toronto&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021465@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:World Cup 2026: Ecuador v Curaçao
+LOCATION:Kansas City Stadium\, Kansas City
+DESCRIPTION:FIFA World Cup 2026 Match 34 - First Stage / Group E. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Ecuador%20v%20Cura%C3%A7ao&dates=20260621T00
+ 0000Z%2F20260621T020000Z&details=FIFA%20World%20Cup%202026%20Match%2034.
+ %20First%20Stage%20-%20Group%20E.%20Source%3A%20FIFA%20schedule.%20Match
+ %20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F
+ 17%2F285023%2F289273%2F400021465&location=Kansas%20City%20Stadium%2C%20K
+ ansas%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021475@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:World Cup 2026: Tunisia v Japan
+LOCATION:Monterrey Stadium\, Monterrey
+DESCRIPTION:FIFA World Cup 2026 Match 36 - First Stage / Group F. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Tunisia%20v%20Japan&dates=20260621T040000Z%2
+ F20260621T060000Z&details=FIFA%20World%20Cup%202026%20Match%2036.%20Firs
+ t%20Stage%20-%20Group%20F.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021475&location=Monterrey%20Stadium%2C%20Monterrey&ct
+ z=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021483@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:World Cup 2026: Spain v Saudi Arabia
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 38 - First Stage / Group H. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Spain%20v%20Saudi%20Arabia&dates=20260621T16
+ 0000Z%2F20260621T180000Z&details=FIFA%20World%20Cup%202026%20Match%2038.
+ %20First%20Stage%20-%20Group%20H.%20Source%3A%20FIFA%20schedule.%20Match
+ %20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F
+ 17%2F285023%2F289273%2F400021483&location=Atlanta%20Stadium%2C%20Atlanta
+ &ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021477@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:World Cup 2026: Belgium v IR Iran
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 39 - First Stage / Group G. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Belgium%20v%20IR%20Iran&dates=20260621T19000
+ 0Z%2F20260621T210000Z&details=FIFA%20World%20Cup%202026%20Match%2039.%20
+ First%20Stage%20-%20Group%20G.%20Source%3A%20FIFA%20schedule.%20Match%20
+ centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%
+ 2F285023%2F289273%2F400021477&location=Los%20Angeles%20Stadium%2C%20Los%
+ 20Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021487@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:World Cup 2026: Uruguay v Cabo Verde
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 37 - First Stage / Group H. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Uruguay%20v%20Cabo%20Verde&dates=20260621T22
+ 0000Z%2F20260622T000000Z&details=FIFA%20World%20Cup%202026%20Match%2037.
+ %20First%20Stage%20-%20Group%20H.%20Source%3A%20FIFA%20schedule.%20Match
+ %20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F
+ 17%2F285023%2F289273%2F400021487&location=Miami%20Stadium%2C%20Miami&ctz
+ =America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021480@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:World Cup 2026: New Zealand v Egypt
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 40 - First Stage / Group G. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20New%20Zealand%20v%20Egypt&dates=20260622T010
+ 000Z%2F20260622T030000Z&details=FIFA%20World%20Cup%202026%20Match%2040.%
+ 20First%20Stage%20-%20Group%20G.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021480&location=BC%20Place%20Vancouver%2C%20Van
+ couver&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021494@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:World Cup 2026: Argentina v Austria
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 43 - First Stage / Group J. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Argentina%20v%20Austria&dates=20260622T17000
+ 0Z%2F20260622T190000Z&details=FIFA%20World%20Cup%202026%20Match%2043.%20
+ First%20Stage%20-%20Group%20J.%20Source%3A%20FIFA%20schedule.%20Match%20
+ centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%
+ 2F285023%2F289273%2F400021494&location=Dallas%20Stadium%2C%20Dallas&ctz=
+ America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021492@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:World Cup 2026: France v Iraq
+LOCATION:Philadelphia Stadium\, Philadelphia
+DESCRIPTION:FIFA World Cup 2026 Match 42 - First Stage / Group I. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20France%20v%20Iraq&dates=20260622T210000Z%2F2
+ 0260622T230000Z&details=FIFA%20World%20Cup%202026%20Match%2042.%20First%
+ 20Stage%20-%20Group%20I.%20Source%3A%20FIFA%20schedule.%20Match%20centre
+ %3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2850
+ 23%2F289273%2F400021492&location=Philadelphia%20Stadium%2C%20Philadelphi
+ a&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021491@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:World Cup 2026: Norway v Senegal
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 41 - First Stage / Group I. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Norway%20v%20Senegal&dates=20260623T000000Z%
+ 2F20260623T020000Z&details=FIFA%20World%20Cup%202026%20Match%2041.%20Fir
+ st%20Stage%20-%20Group%20I.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021491&location=New%20York%2FNew%20Jersey%20Stadium%
+ 2C%20New%20Jersey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021499@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:World Cup 2026: Jordan v Algeria
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area
+DESCRIPTION:FIFA World Cup 2026 Match 44 - First Stage / Group J. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Jordan%20v%20Algeria&dates=20260623T030000Z%
+ 2F20260623T050000Z&details=FIFA%20World%20Cup%202026%20Match%2044.%20Fir
+ st%20Stage%20-%20Group%20J.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021499&location=San%20Francisco%20Bay%20Area%20Stadi
+ um%2C%20San%20Francisco%20Bay%20Area&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021503@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:World Cup 2026: Portugal v Uzbekistan
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 47 - First Stage / Group K. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Portugal%20v%20Uzbekistan&dates=20260623T170
+ 000Z%2F20260623T190000Z&details=FIFA%20World%20Cup%202026%20Match%2047.%
+ 20First%20Stage%20-%20Group%20K.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021503&location=Houston%20Stadium%2C%20Houston&
+ ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021506@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:World Cup 2026: England v Ghana
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 45 - First Stage / Group L. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20England%20v%20Ghana&dates=20260623T200000Z%2
+ F20260623T220000Z&details=FIFA%20World%20Cup%202026%20Match%2045.%20Firs
+ t%20Stage%20-%20Group%20L.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021506&location=Boston%20Stadium%2C%20Boston&ctz=Amer
+ ica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021511@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:World Cup 2026: Panama v Croatia
+LOCATION:Toronto Stadium\, Toronto
+DESCRIPTION:FIFA World Cup 2026 Match 46 - First Stage / Group L. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Panama%20v%20Croatia&dates=20260623T230000Z%
+ 2F20260624T010000Z&details=FIFA%20World%20Cup%202026%20Match%2046.%20Fir
+ st%20Stage%20-%20Group%20L.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021511&location=Toronto%20Stadium%2C%20Toronto&ctz=A
+ merica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021501@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:World Cup 2026: Colombia v Congo DR
+LOCATION:Guadalajara Stadium\, Guadalajara
+DESCRIPTION:FIFA World Cup 2026 Match 48 - First Stage / Group K. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Colombia%20v%20Congo%20DR&dates=20260624T020
+ 000Z%2F20260624T040000Z&details=FIFA%20World%20Cup%202026%20Match%2048.%
+ 20First%20Stage%20-%20Group%20K.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021501&location=Guadalajara%20Stadium%2C%20Guad
+ alajara&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021451@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:World Cup 2026: Switzerland v Canada
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 51 - First Stage / Group B. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Switzerland%20v%20Canada&dates=20260624T1900
+ 00Z%2F20260624T210000Z&details=FIFA%20World%20Cup%202026%20Match%2051.%2
+ 0First%20Stage%20-%20Group%20B.%20Source%3A%20FIFA%20schedule.%20Match%2
+ 0centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17
+ %2F285023%2F289273%2F400021451&location=BC%20Place%20Vancouver%2C%20Vanc
+ ouver&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021448@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:World Cup 2026: Bosnia and Herzegovina v Qatar
+LOCATION:Seattle Stadium\, Seattle
+DESCRIPTION:FIFA World Cup 2026 Match 52 - First Stage / Group B. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Bosnia%20and%20Herzegovina%20v%20Qatar&dates
+ =20260624T190000Z%2F20260624T210000Z&details=FIFA%20World%20Cup%202026%2
+ 0Match%2052.%20First%20Stage%20-%20Group%20B.%20Source%3A%20FIFA%20sched
+ ule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centr
+ e%2Fmatch%2F17%2F285023%2F289273%2F400021448&location=Seattle%20Stadium%
+ 2C%20Seattle&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021455@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:World Cup 2026: Scotland v Brazil
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 49 - First Stage / Group C. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Scotland%20v%20Brazil&dates=20260624T220000Z
+ %2F20260625T000000Z&details=FIFA%20World%20Cup%202026%20Match%2049.%20Fi
+ rst%20Stage%20-%20Group%20C.%20Source%3A%20FIFA%20schedule.%20Match%20ce
+ ntre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F
+ 285023%2F289273%2F400021455&location=Miami%20Stadium%2C%20Miami&ctz=Amer
+ ica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021452@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:World Cup 2026: Morocco v Haiti
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 50 - First Stage / Group C. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Morocco%20v%20Haiti&dates=20260624T220000Z%2
+ F20260625T000000Z&details=FIFA%20World%20Cup%202026%20Match%2050.%20Firs
+ t%20Stage%20-%20Group%20C.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021452&location=Atlanta%20Stadium%2C%20Atlanta&ctz=Am
+ erica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021444@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:World Cup 2026: Czechia v Mexico
+LOCATION:Mexico City Stadium\, Mexico City
+DESCRIPTION:FIFA World Cup 2026 Match 53 - First Stage / Group A. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Czechia%20v%20Mexico&dates=20260625T010000Z%
+ 2F20260625T030000Z&details=FIFA%20World%20Cup%202026%20Match%2053.%20Fir
+ st%20Stage%20-%20Group%20A.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021444&location=Mexico%20City%20Stadium%2C%20Mexico%
+ 20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021445@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:World Cup 2026: South Africa v Korea Republic
+LOCATION:Monterrey Stadium\, Monterrey
+DESCRIPTION:FIFA World Cup 2026 Match 54 - First Stage / Group A. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20South%20Africa%20v%20Korea%20Republic&dates=
+ 20260625T010000Z%2F20260625T030000Z&details=FIFA%20World%20Cup%202026%20
+ Match%2054.%20First%20Stage%20-%20Group%20A.%20Source%3A%20FIFA%20schedu
+ le.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre
+ %2Fmatch%2F17%2F285023%2F289273%2F400021445&location=Monterrey%20Stadium
+ %2C%20Monterrey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021468@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:World Cup 2026: Curaçao v Côte d'Ivoire
+LOCATION:Philadelphia Stadium\, Philadelphia
+DESCRIPTION:FIFA World Cup 2026 Match 55 - First Stage / Group E. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Cura%C3%A7ao%20v%20C%C3%B4te%20d%27Ivoire&da
+ tes=20260625T200000Z%2F20260625T220000Z&details=FIFA%20World%20Cup%20202
+ 6%20Match%2055.%20First%20Stage%20-%20Group%20E.%20Source%3A%20FIFA%20sc
+ hedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-ce
+ ntre%2Fmatch%2F17%2F285023%2F289273%2F400021468&location=Philadelphia%20
+ Stadium%2C%20Philadelphia&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021466@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:World Cup 2026: Ecuador v Germany
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 56 - First Stage / Group E. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Ecuador%20v%20Germany&dates=20260625T200000Z
+ %2F20260625T220000Z&details=FIFA%20World%20Cup%202026%20Match%2056.%20Fi
+ rst%20Stage%20-%20Group%20E.%20Source%3A%20FIFA%20schedule.%20Match%20ce
+ ntre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F
+ 285023%2F289273%2F400021466&location=New%20York%2FNew%20Jersey%20Stadium
+ %2C%20New%20Jersey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021471@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:World Cup 2026: Japan v Sweden
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 57 - First Stage / Group F. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Japan%20v%20Sweden&dates=20260625T230000Z%2F
+ 20260626T010000Z&details=FIFA%20World%20Cup%202026%20Match%2057.%20First
+ %20Stage%20-%20Group%20F.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021471&location=Dallas%20Stadium%2C%20Dallas&ctz=Ameri
+ ca%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021473@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:World Cup 2026: Tunisia v Netherlands
+LOCATION:Kansas City Stadium\, Kansas City
+DESCRIPTION:FIFA World Cup 2026 Match 58 - First Stage / Group F. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Tunisia%20v%20Netherlands&dates=20260625T230
+ 000Z%2F20260626T010000Z&details=FIFA%20World%20Cup%202026%20Match%2058.%
+ 20First%20Stage%20-%20Group%20F.%20Source%3A%20FIFA%20schedule.%20Match%
+ 20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F1
+ 7%2F285023%2F289273%2F400021473&location=Kansas%20City%20Stadium%2C%20Ka
+ nsas%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021459@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:World Cup 2026: Türkiye v USA
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 59 - First Stage / Group D. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20T%C3%BCrkiye%20v%20USA&dates=20260626T020000
+ Z%2F20260626T040000Z&details=FIFA%20World%20Cup%202026%20Match%2059.%20F
+ irst%20Stage%20-%20Group%20D.%20Source%3A%20FIFA%20schedule.%20Match%20c
+ entre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2
+ F285023%2F289273%2F400021459&location=Los%20Angeles%20Stadium%2C%20Los%2
+ 0Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021461@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:World Cup 2026: Paraguay v Australia
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area
+DESCRIPTION:FIFA World Cup 2026 Match 60 - First Stage / Group D. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Paraguay%20v%20Australia&dates=20260626T0200
+ 00Z%2F20260626T040000Z&details=FIFA%20World%20Cup%202026%20Match%2060.%2
+ 0First%20Stage%20-%20Group%20D.%20Source%3A%20FIFA%20schedule.%20Match%2
+ 0centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17
+ %2F285023%2F289273%2F400021461&location=San%20Francisco%20Bay%20Area%20S
+ tadium%2C%20San%20Francisco%20Bay%20Area&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021489@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:World Cup 2026: Norway v France
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 61 - First Stage / Group I. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Norway%20v%20France&dates=20260626T190000Z%2
+ F20260626T210000Z&details=FIFA%20World%20Cup%202026%20Match%2061.%20Firs
+ t%20Stage%20-%20Group%20I.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021489&location=Boston%20Stadium%2C%20Boston&ctz=Amer
+ ica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021493@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:World Cup 2026: Senegal v Iraq
+LOCATION:Toronto Stadium\, Toronto
+DESCRIPTION:FIFA World Cup 2026 Match 62 - First Stage / Group I. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Senegal%20v%20Iraq&dates=20260626T190000Z%2F
+ 20260626T210000Z&details=FIFA%20World%20Cup%202026%20Match%2062.%20First
+ %20Stage%20-%20Group%20I.%20Source%3A%20FIFA%20schedule.%20Match%20centr
+ e%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285
+ 023%2F289273%2F400021493&location=Toronto%20Stadium%2C%20Toronto&ctz=Ame
+ rica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021485@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:World Cup 2026: Cabo Verde v Saudi Arabia
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 65 - First Stage / Group H. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Cabo%20Verde%20v%20Saudi%20Arabia&dates=2026
+ 0627T000000Z%2F20260627T020000Z&details=FIFA%20World%20Cup%202026%20Matc
+ h%2065.%20First%20Stage%20-%20Group%20H.%20Source%3A%20FIFA%20schedule.%
+ 20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fm
+ atch%2F17%2F285023%2F289273%2F400021485&location=Houston%20Stadium%2C%20
+ Houston&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021484@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:World Cup 2026: Uruguay v Spain
+LOCATION:Guadalajara Stadium\, Guadalajara
+DESCRIPTION:FIFA World Cup 2026 Match 66 - First Stage / Group H. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Uruguay%20v%20Spain&dates=20260627T000000Z%2
+ F20260627T020000Z&details=FIFA%20World%20Cup%202026%20Match%2066.%20Firs
+ t%20Stage%20-%20Group%20H.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021484&location=Guadalajara%20Stadium%2C%20Guadalajar
+ a&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021479@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:World Cup 2026: Egypt v IR Iran
+LOCATION:Seattle Stadium\, Seattle
+DESCRIPTION:FIFA World Cup 2026 Match 63 - First Stage / Group G. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Egypt%20v%20IR%20Iran&dates=20260627T030000Z
+ %2F20260627T050000Z&details=FIFA%20World%20Cup%202026%20Match%2063.%20Fi
+ rst%20Stage%20-%20Group%20G.%20Source%3A%20FIFA%20schedule.%20Match%20ce
+ ntre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F
+ 285023%2F289273%2F400021479&location=Seattle%20Stadium%2C%20Seattle&ctz=
+ America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021481@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:World Cup 2026: New Zealand v Belgium
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 64 - First Stage / Group G. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20New%20Zealand%20v%20Belgium&dates=20260627T0
+ 30000Z%2F20260627T050000Z&details=FIFA%20World%20Cup%202026%20Match%2064
+ .%20First%20Stage%20-%20Group%20G.%20Source%3A%20FIFA%20schedule.%20Matc
+ h%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2
+ F17%2F285023%2F289273%2F400021481&location=BC%20Place%20Vancouver%2C%20V
+ ancouver&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021508@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:World Cup 2026: Panama v England
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 67 - First Stage / Group L. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Panama%20v%20England&dates=20260627T210000Z%
+ 2F20260627T230000Z&details=FIFA%20World%20Cup%202026%20Match%2067.%20Fir
+ st%20Stage%20-%20Group%20L.%20Source%3A%20FIFA%20schedule.%20Match%20cen
+ tre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F2
+ 85023%2F289273%2F400021508&location=New%20York%2FNew%20Jersey%20Stadium%
+ 2C%20New%20Jersey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021509@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:World Cup 2026: Croatia v Ghana
+LOCATION:Philadelphia Stadium\, Philadelphia
+DESCRIPTION:FIFA World Cup 2026 Match 68 - First Stage / Group L. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Croatia%20v%20Ghana&dates=20260627T210000Z%2
+ F20260627T230000Z&details=FIFA%20World%20Cup%202026%20Match%2068.%20Firs
+ t%20Stage%20-%20Group%20L.%20Source%3A%20FIFA%20schedule.%20Match%20cent
+ re%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F28
+ 5023%2F289273%2F400021509&location=Philadelphia%20Stadium%2C%20Philadelp
+ hia&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021505@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:World Cup 2026: Colombia v Portugal
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 71 - First Stage / Group K. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Colombia%20v%20Portugal&dates=20260627T23300
+ 0Z%2F20260628T013000Z&details=FIFA%20World%20Cup%202026%20Match%2071.%20
+ First%20Stage%20-%20Group%20K.%20Source%3A%20FIFA%20schedule.%20Match%20
+ centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%
+ 2F285023%2F289273%2F400021505&location=Miami%20Stadium%2C%20Miami&ctz=Am
+ erica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021500@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:World Cup 2026: Congo DR v Uzbekistan
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 72 - First Stage / Group K. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Congo%20DR%20v%20Uzbekistan&dates=20260627T2
+ 33000Z%2F20260628T013000Z&details=FIFA%20World%20Cup%202026%20Match%2072
+ .%20First%20Stage%20-%20Group%20K.%20Source%3A%20FIFA%20schedule.%20Matc
+ h%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2
+ F17%2F285023%2F289273%2F400021500&location=Atlanta%20Stadium%2C%20Atlant
+ a&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021497@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:World Cup 2026: Algeria v Austria
+LOCATION:Kansas City Stadium\, Kansas City
+DESCRIPTION:FIFA World Cup 2026 Match 69 - First Stage / Group J. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Algeria%20v%20Austria&dates=20260628T020000Z
+ %2F20260628T040000Z&details=FIFA%20World%20Cup%202026%20Match%2069.%20Fi
+ rst%20Stage%20-%20Group%20J.%20Source%3A%20FIFA%20schedule.%20Match%20ce
+ ntre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F
+ 285023%2F289273%2F400021497&location=Kansas%20City%20Stadium%2C%20Kansas
+ %20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021495@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:World Cup 2026: Jordan v Argentina
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 70 - First Stage / Group J. Add ind
+ ividually: https://calendar.google.com/calendar/render?action=TEMPLATE&t
+ ext=World%20Cup%202026%3A%20Jordan%20v%20Argentina&dates=20260628T020000
+ Z%2F20260628T040000Z&details=FIFA%20World%20Cup%202026%20Match%2070.%20F
+ irst%20Stage%20-%20Group%20J.%20Source%3A%20FIFA%20schedule.%20Match%20c
+ entre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2
+ F285023%2F289273%2F400021495&location=Dallas%20Stadium%2C%20Dallas&ctz=A
+ merica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021518@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260628T190000Z
+DTEND:20260628T220000Z
+SUMMARY:World Cup 2026: 2A v 2B
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 73 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%202A%20v%202B&dates=20260628T190000Z%2F20260628T220000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2073.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021518&locati
+ on=Los%20Angeles%20Stadium%2C%20Los%20Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021516@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260629T170000Z
+DTEND:20260629T200000Z
+SUMMARY:World Cup 2026: 1C v 2F
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 76 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201C%20v%202F&dates=20260629T170000Z%2F20260629T200000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2076.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021516&locati
+ on=Houston%20Stadium%2C%20Houston&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021513@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260629T203000Z
+DTEND:20260629T233000Z
+SUMMARY:World Cup 2026: 1E v 3ABCDF
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 74 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201E%20v%203ABCDF&dates=20260629T203000Z%2F20260629T2330
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2074.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021513&lo
+ cation=Boston%20Stadium%2C%20Boston&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021522@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260630T010000Z
+DTEND:20260630T040000Z
+SUMMARY:World Cup 2026: 1F v 2C
+LOCATION:Monterrey Stadium\, Monterrey
+DESCRIPTION:FIFA World Cup 2026 Match 75 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201F%20v%202C&dates=20260630T010000Z%2F20260630T040000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2075.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021522&locati
+ on=Monterrey%20Stadium%2C%20Monterrey&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021514@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260630T170000Z
+DTEND:20260630T200000Z
+SUMMARY:World Cup 2026: 2E v 2I
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 78 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%202E%20v%202I&dates=20260630T170000Z%2F20260630T200000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2078.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021514&locati
+ on=Dallas%20Stadium%2C%20Dallas&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021523@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260630T210000Z
+DTEND:20260701T000000Z
+SUMMARY:World Cup 2026: 1I v 3CDFGH
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 77 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201I%20v%203CDFGH&dates=20260630T210000Z%2F20260701T0000
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2077.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021523&lo
+ cation=New%20York%2FNew%20Jersey%20Stadium%2C%20New%20Jersey&ctz=America
+ %2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021520@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260701T010000Z
+DTEND:20260701T040000Z
+SUMMARY:World Cup 2026: 1A v 3CEFHI
+LOCATION:Mexico City Stadium\, Mexico City
+DESCRIPTION:FIFA World Cup 2026 Match 79 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201A%20v%203CEFHI&dates=20260701T010000Z%2F20260701T0400
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2079.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021520&lo
+ cation=Mexico%20City%20Stadium%2C%20Mexico%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021512@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260701T160000Z
+DTEND:20260701T190000Z
+SUMMARY:World Cup 2026: 1L v 3EHIJK
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 80 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201L%20v%203EHIJK&dates=20260701T160000Z%2F20260701T1900
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2080.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021512&lo
+ cation=Atlanta%20Stadium%2C%20Atlanta&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021525@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260701T200000Z
+DTEND:20260701T230000Z
+SUMMARY:World Cup 2026: 1G v 3AEHIJ
+LOCATION:Seattle Stadium\, Seattle
+DESCRIPTION:FIFA World Cup 2026 Match 82 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201G%20v%203AEHIJ&dates=20260701T200000Z%2F20260701T2300
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2082.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021525&lo
+ cation=Seattle%20Stadium%2C%20Seattle&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021524@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260702T000000Z
+DTEND:20260702T030000Z
+SUMMARY:World Cup 2026: 1D v 3BEFIJ
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area
+DESCRIPTION:FIFA World Cup 2026 Match 81 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201D%20v%203BEFIJ&dates=20260702T000000Z%2F20260702T0300
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2081.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021524&lo
+ cation=San%20Francisco%20Bay%20Area%20Stadium%2C%20San%20Francisco%20Bay
+ %20Area&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021519@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260702T190000Z
+DTEND:20260702T220000Z
+SUMMARY:World Cup 2026: 1H v 2J
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 84 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201H%20v%202J&dates=20260702T190000Z%2F20260702T220000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2084.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021519&locati
+ on=Los%20Angeles%20Stadium%2C%20Los%20Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021526@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260702T230000Z
+DTEND:20260703T020000Z
+SUMMARY:World Cup 2026: 2K v 2L
+LOCATION:Toronto Stadium\, Toronto
+DESCRIPTION:FIFA World Cup 2026 Match 83 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%202K%20v%202L&dates=20260702T230000Z%2F20260703T020000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2083.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021526&locati
+ on=Toronto%20Stadium%2C%20Toronto&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021527@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260703T030000Z
+DTEND:20260703T060000Z
+SUMMARY:World Cup 2026: 1B v 3EFGIJ
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 85 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201B%20v%203EFGIJ&dates=20260703T030000Z%2F20260703T0600
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2085.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021527&lo
+ cation=BC%20Place%20Vancouver%2C%20Vancouver&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021515@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260703T180000Z
+DTEND:20260703T210000Z
+SUMMARY:World Cup 2026: 2D v 2G
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 88 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%202D%20v%202G&dates=20260703T180000Z%2F20260703T210000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2088.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021515&locati
+ on=Dallas%20Stadium%2C%20Dallas&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021521@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260703T220000Z
+DTEND:20260704T010000Z
+SUMMARY:World Cup 2026: 1J v 2H
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 86 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201J%20v%202H&dates=20260703T220000Z%2F20260704T010000Z&
+ details=FIFA%20World%20Cup%202026%20Match%2086.%20Round%20of%2032.%20Sou
+ rce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.c
+ om%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021521&locati
+ on=Miami%20Stadium%2C%20Miami&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021517@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260704T013000Z
+DTEND:20260704T043000Z
+SUMMARY:World Cup 2026: 1K v 3DEIJL
+LOCATION:Kansas City Stadium\, Kansas City
+DESCRIPTION:FIFA World Cup 2026 Match 87 - Round of 32. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%201K%20v%203DEIJL&dates=20260704T013000Z%2F20260704T0430
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2087.%20Round%20of%2032.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289287%2F400021517&lo
+ cation=Kansas%20City%20Stadium%2C%20Kansas%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021530@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260704T170000Z
+DTEND:20260704T200000Z
+SUMMARY:World Cup 2026: W73 v W75
+LOCATION:Houston Stadium\, Houston
+DESCRIPTION:FIFA World Cup 2026 Match 90 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W73%20v%20W75&dates=20260704T170000Z%2F20260704T200000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2090.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021530&loca
+ tion=Houston%20Stadium%2C%20Houston&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021533@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260704T210000Z
+DTEND:20260705T000000Z
+SUMMARY:World Cup 2026: W74 v W77
+LOCATION:Philadelphia Stadium\, Philadelphia
+DESCRIPTION:FIFA World Cup 2026 Match 89 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W74%20v%20W77&dates=20260704T210000Z%2F20260705T000000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2089.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021533&loca
+ tion=Philadelphia%20Stadium%2C%20Philadelphia&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021532@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:World Cup 2026: W76 v W78
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 91 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W76%20v%20W78&dates=20260705T200000Z%2F20260705T230000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2091.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021532&loca
+ tion=New%20York%2FNew%20Jersey%20Stadium%2C%20New%20Jersey&ctz=America%2
+ FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021531@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260706T000000Z
+DTEND:20260706T030000Z
+SUMMARY:World Cup 2026: W79 v W80
+LOCATION:Mexico City Stadium\, Mexico City
+DESCRIPTION:FIFA World Cup 2026 Match 92 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W79%20v%20W80&dates=20260706T000000Z%2F20260706T030000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2092.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021531&loca
+ tion=Mexico%20City%20Stadium%2C%20Mexico%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021529@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260706T190000Z
+DTEND:20260706T220000Z
+SUMMARY:World Cup 2026: W83 v W84
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 93 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W83%20v%20W84&dates=20260706T190000Z%2F20260706T220000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2093.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021529&loca
+ tion=Dallas%20Stadium%2C%20Dallas&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021534@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260707T000000Z
+DTEND:20260707T030000Z
+SUMMARY:World Cup 2026: W81 v W82
+LOCATION:Seattle Stadium\, Seattle
+DESCRIPTION:FIFA World Cup 2026 Match 94 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W81%20v%20W82&dates=20260707T000000Z%2F20260707T030000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2094.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021534&loca
+ tion=Seattle%20Stadium%2C%20Seattle&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021528@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260707T160000Z
+DTEND:20260707T190000Z
+SUMMARY:World Cup 2026: W86 v W88
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 95 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W86%20v%20W88&dates=20260707T160000Z%2F20260707T190000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2095.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021528&loca
+ tion=Atlanta%20Stadium%2C%20Atlanta&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021535@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260707T200000Z
+DTEND:20260707T230000Z
+SUMMARY:World Cup 2026: W85 v W87
+LOCATION:BC Place Vancouver\, Vancouver
+DESCRIPTION:FIFA World Cup 2026 Match 96 - Round of 16. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W85%20v%20W87&dates=20260707T200000Z%2F20260707T230000
+ Z&details=FIFA%20World%20Cup%202026%20Match%2096.%20Round%20of%2016.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289288%2F400021535&loca
+ tion=BC%20Place%20Vancouver%2C%20Vancouver&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021536@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260709T200000Z
+DTEND:20260709T230000Z
+SUMMARY:World Cup 2026: W89 v W90
+LOCATION:Boston Stadium\, Boston
+DESCRIPTION:FIFA World Cup 2026 Match 97 - Quarter-final. Add individuall
+ y: https://calendar.google.com/calendar/render?action=TEMPLATE&text=Worl
+ d%20Cup%202026%3A%20W89%20v%20W90&dates=20260709T200000Z%2F20260709T2300
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2097.%20Quarter-final.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289289%2F400021536&loca
+ tion=Boston%20Stadium%2C%20Boston&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021538@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260710T190000Z
+DTEND:20260710T220000Z
+SUMMARY:World Cup 2026: W93 v W94
+LOCATION:Los Angeles Stadium\, Los Angeles
+DESCRIPTION:FIFA World Cup 2026 Match 98 - Quarter-final. Add individuall
+ y: https://calendar.google.com/calendar/render?action=TEMPLATE&text=Worl
+ d%20Cup%202026%3A%20W93%20v%20W94&dates=20260710T190000Z%2F20260710T2200
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2098.%20Quarter-final.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289289%2F400021538&loca
+ tion=Los%20Angeles%20Stadium%2C%20Los%20Angeles&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021539@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260711T210000Z
+DTEND:20260712T000000Z
+SUMMARY:World Cup 2026: W91 v W92
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 99 - Quarter-final. Add individuall
+ y: https://calendar.google.com/calendar/render?action=TEMPLATE&text=Worl
+ d%20Cup%202026%3A%20W91%20v%20W92&dates=20260711T210000Z%2F20260712T0000
+ 00Z&details=FIFA%20World%20Cup%202026%20Match%2099.%20Quarter-final.%20S
+ ource%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa
+ .com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289289%2F400021539&loca
+ tion=Miami%20Stadium%2C%20Miami&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021537@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260712T010000Z
+DTEND:20260712T040000Z
+SUMMARY:World Cup 2026: W95 v W96
+LOCATION:Kansas City Stadium\, Kansas City
+DESCRIPTION:FIFA World Cup 2026 Match 100 - Quarter-final. Add individual
+ ly: https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wor
+ ld%20Cup%202026%3A%20W95%20v%20W96&dates=20260712T010000Z%2F20260712T040
+ 000Z&details=FIFA%20World%20Cup%202026%20Match%20100.%20Quarter-final.%2
+ 0Source%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fi
+ fa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289289%2F400021537&lo
+ cation=Kansas%20City%20Stadium%2C%20Kansas%20City&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021541@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260714T190000Z
+DTEND:20260714T220000Z
+SUMMARY:World Cup 2026: W97 v W98
+LOCATION:Dallas Stadium\, Dallas
+DESCRIPTION:FIFA World Cup 2026 Match 101 - Semi-final. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W97%20v%20W98&dates=20260714T190000Z%2F20260714T220000
+ Z&details=FIFA%20World%20Cup%202026%20Match%20101.%20Semi-final.%20Sourc
+ e%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com
+ %2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289290%2F400021541&location
+ =Dallas%20Stadium%2C%20Dallas&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021540@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260715T190000Z
+DTEND:20260715T220000Z
+SUMMARY:World Cup 2026: W99 v W100
+LOCATION:Atlanta Stadium\, Atlanta
+DESCRIPTION:FIFA World Cup 2026 Match 102 - Semi-final. Add individually:
+  https://calendar.google.com/calendar/render?action=TEMPLATE&text=World%
+ 20Cup%202026%3A%20W99%20v%20W100&dates=20260715T190000Z%2F20260715T22000
+ 0Z&details=FIFA%20World%20Cup%202026%20Match%20102.%20Semi-final.%20Sour
+ ce%3A%20FIFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.co
+ m%2Fen%2Fmatch-centre%2Fmatch%2F17%2F285023%2F289290%2F400021540&locatio
+ n=Atlanta%20Stadium%2C%20Atlanta&ctz=America%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021542@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260718T210000Z
+DTEND:20260719T000000Z
+SUMMARY:World Cup 2026: RU101 v RU102
+LOCATION:Miami Stadium\, Miami
+DESCRIPTION:FIFA World Cup 2026 Match 103 - Play-off for third place. Add
+  individually: https://calendar.google.com/calendar/render?action=TEMPLA
+ TE&text=World%20Cup%202026%3A%20RU101%20v%20RU102&dates=20260718T210000Z
+ %2F20260719T000000Z&details=FIFA%20World%20Cup%202026%20Match%20103.%20P
+ lay-off%20for%20third%20place.%20Source%3A%20FIFA%20schedule.%20Match%20
+ centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2Fmatch-centre%2Fmatch%2F17%
+ 2F285023%2F289291%2F400021542&location=Miami%20Stadium%2C%20Miami&ctz=Am
+ erica%2FEdmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:400021543@fifa-worldcup-2026.hermes
+DTSTAMP:20260611T235938Z
+DTSTART:20260719T190000Z
+DTEND:20260719T220000Z
+SUMMARY:World Cup 2026: W101 v W102
+LOCATION:New York/New Jersey Stadium\, New Jersey
+DESCRIPTION:FIFA World Cup 2026 Match 104 - Final. Add individually: http
+ s://calendar.google.com/calendar/render?action=TEMPLATE&text=World%20Cup
+ %202026%3A%20W101%20v%20W102&dates=20260719T190000Z%2F20260719T220000Z&d
+ etails=FIFA%20World%20Cup%202026%20Match%20104.%20Final.%20Source%3A%20F
+ IFA%20schedule.%20Match%20centre%3A%20https%3A%2F%2Fwww.fifa.com%2Fen%2F
+ match-centre%2Fmatch%2F17%2F285023%2F289292%2F400021543&location=New%20Y
+ ork%2FNew%20Jersey%20Stadium%2C%20New%20Jersey&ctz=America%2FEdmonton
+END:VEVENT
+END:VCALENDAR
